@@ -1,45 +1,67 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A PROJECT FOR COMPUTER GRAPHICS:
+
+SUBMITTED BY:
+
+BISWASH KHANAL
+
+BCT 'A'
+
+ACE077BCT034
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+COMPILED USING GCC 9.2 32-BIT
+
+LINKER PARAMETERS: -static-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+C++ 11
+
+**if unable to compile the program, please run the executable directly**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Objective: Make a Win32 application with toolbar and selectable options to draw different shapes in a canvas
 
 Planned features:
 
 Line:
 
- 1.Using DDA Algorithm. 
+  1. Using DDA Algorithm. 
  
- 2.Using Midpoint. 
+  2. Using Midpoint. 
  
- 3.Using Parameterized technique.
+  3. Using Parameterized technique.
  
 
 
 Circle: 
 
- 1.Directly Using equation. 
+  1. Directly Using equation. 
 
- 2.Using Polar form. 
+  2. Using Polar form. 
  
- 3.Using Midpoint Algorithm.
+  3. Using Midpoint Algorithm.
  
 
 
 Ellipse: 
 
- 1.Directly Using equation. 
+  1. Directly Using equation. 
  
- 2.Using Polar form. 
+  2. Using Polar form. 
  
- 3.Using Midpoint Algorithm.
+  3. Using Midpoint Algorithm.
  
 
 
 Curves:
 * Just making curve seemed underwhelming so i decided to make shapes filled with some curves in syllabus: 
 
- 1.Draw a Square/rectangle using Hermitian curve. 
+  1. Draw a Square/rectangle using Hermitian curve. 
  
- 2.Draw Rectangle/square using Bezier curve. 
+  2. Draw Rectangle/square using Bezier curve. 
  
- 3.5 points Cardinal Spline Curve.
+  3. 5 points Cardinal Spline Curve.
  
 
 
@@ -53,9 +75,9 @@ Filling Algorithms:
 
 Clipping: 
 
- 1.Circle Line Clipping.
+ 1. Circle Line Clipping.
  
- 2.Rectangle Line Clipping.
+ 2. Rectangle Line Clipping.
  
 
 
