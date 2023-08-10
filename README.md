@@ -110,4 +110,8 @@ Ellipse: Similar to circle, first click to set the center, click the second time
 
 Curves: For drawing of rectangles using curves, give two points to specify the width of the rectangle, (height is set within the program)
         For 5 points cardinal spline curve, click 5 points ( 1 start point, 3 control points and an end point)
+
+        ******BEFORE USING THE CLIPPING FUNCTION USE THE CLEAR OPTION UNDER FILE MENU***************
+Clipping: Select the required clipping option and a shape will appear on the screen. Experiment with different endpoints to be given to the line which will be clipped accordingly.
+
         
